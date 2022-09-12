@@ -58,9 +58,9 @@ To compare the performance of the MechaCar prototype against the vehicles from t
 - - the fuel economy (mpg_highway),
 - the HorsePower,
 - the wheelbase.
-
-0ur null hypothesis (H0) would be: each performance metrics is similar between the MechaCar prototype and all vehicle from the other manufacturers.
-Our alternative hypothesis (H1) would be: at least one of the performance metrics is statistically different between the MechaCar prototype and all vehicle from the other manufacturers. 
+##### Hypothesis
+- 0ur null hypothesis (H0) would be: each performance metrics is similar between the MechaCar prototype and all vehicle from the other manufacturers.
+- 0ur alternative hypothesis (H1) would be: at least one of the performance metrics is statistically different between the MechaCar prototype and all vehicle from the other manufacturers. 
 
 We would use a one-way ANOVA test. This test is used to compare the means of a continuous numerical variable across a number of groups.
 So in this analysis we would compare the means for each metric across the different manufacturers.
