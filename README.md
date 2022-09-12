@@ -66,7 +66,7 @@ We would use a one-way ANOVA test. This test is used to compare the means of a c
 So in this analysis we would compare the means for each metric across the different manufacturers.
 
 To perform the test, we would need data of MechaCar vehicles and its competition, all gathered in a single dataframe where each metric is a column.
-The example of data can be found on Kaggle such as [car data](https://www.kaggle.com/code/ljanjughazyan/cars-dataset-analysis/data) 
+The example of data can be found on Kaggle such as [car data](https://www.kaggle.com/datasets/ljanjughazyan/cars1) 
 
   
   
