@@ -13,6 +13,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 - [Suspension Coil dataset](https://github.com/ShiraliObul/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
 
 ### Results 
+Analysing precess (input and output) can be found here as github pages [Results](https://shiraliobul.github.io/MechaCar_Statistical_Analysis/)
 #### 1. Multiple linear regression model to predict MPG 
 - Using R, performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes with 
   statistically significant, the result showed that vehicel_length, ground_clearance (and Intercept) provide a non-random amount of variance to the linear
