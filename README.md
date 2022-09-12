@@ -52,5 +52,21 @@ Assuming our significance level is the common 0.05 percent, our p-value of 0.057
 
 According to the results above, Lot1 p-value is lower than 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean. Whereas, Lot2 and 3 both p-values are above the significance level, so we can not reject our null hypothesis and conclude that the PSI for Lot2 and Lot3 are comparable to the population mean (there is no statistically significant difference).
 
+#### 4. Study Design: MechaCar vs Competition
+To compare the performance of the MechaCar prototype against the vehicles from the competition, we will perform a statistical analysis based on the following metrics: 
+- the fuel economy (mpg_city),
+- - the fuel economy (mpg_highway),
+- the HorsePower,
+- the wheelbase.
+
+0ur null hypothesis (H0) would be: each performance metrics is similar between the MechaCar prototype and all vehicle from the other manufacturers.
+Our alternative hypothesis (H1) would be: at least one of the performance metrics is statistically different between the MechaCar prototype and all vehicle from the other manufacturers. 
+
+We would use a one-way ANOVA test. This test is used to compare the means of a continuous numerical variable across a number of groups.
+So in this analysis we would compare the means for each metric across the different manufacturers.
+
+To perform the test, we would need data of MechaCar vehicles and its competition, all gathered in a single dataframe where each metric is a column.
+The example of data can be found on Kaggle such as [car data](https://www.kaggle.com/code/ljanjughazyan/cars-dataset-analysis/data) 
+
   
   
