@@ -9,4 +9,4 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings
 
 ### Resources 
-- [MechaCar MPG dataset]()
+- [MechaCar MPG dataset](https://github.com/ShiraliObul/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
