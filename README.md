@@ -10,4 +10,4 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ### Resources 
 - [MechaCar MPG dataset](https://github.com/ShiraliObul/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
-- [Suspension Coil dataset]()
+- [Suspension Coil dataset](https://github.com/ShiraliObul/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
