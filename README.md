@@ -26,6 +26,13 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 So the slope of the linear model is not considered to be zero.
 
 - Adjusted R-square is 0.68 so 68% of the variations in mpg can be explained by changes in the vehicle length, the vehicle weight, the spoiler angle, the drivetrain and the ground clearance. We can consider this linear model as fairly efficient to predict mpg of MechaCar prototypes.
+- Regression line with vehicle length
+
+![Rplot1](https://user-images.githubusercontent.com/65901034/189676547-ef58ecce-3192-44ee-81fd-7b1f62cac3eb.png)
+
+- Regression line with ground clearance 
+
+![Rplot2](https://user-images.githubusercontent.com/65901034/189676654-c86df201-032d-4553-a7fe-6295429cbb2b.png)
 
 #### 2.Summary Statistics on Suspension Coils
 - Using t.test in R, calculated the summary statistics as follwing:
