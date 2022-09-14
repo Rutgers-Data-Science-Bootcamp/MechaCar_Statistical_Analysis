@@ -58,7 +58,7 @@ Assuming our significance level is the common 0.05 percent, our p-value of 0.057
 ##### Lot3
 ![Screen Shot 2022-09-12 at 12 29 00 AM](https://user-images.githubusercontent.com/65901034/189574229-7878008e-396a-4cb4-b151-6068b6e5a65b.png)
 
-According to the results above, Lot1 p-value is lower than 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean. Whereas, Lot2 and 3 both p-values are above the significance level, so we can not reject our null hypothesis and conclude that the PSI for Lot2 and Lot3 are comparable to the population mean (there is no statistically significant difference).
+According to the results above, Lot3 p-value is lower than 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 3 is statistically different from the population mean. Whereas, Lot1 and 2 both p-values are above the significance level, so we can not reject our null hypothesis and conclude that the PSI for Lot1 and Lot2 are comparable to the population mean (there is no statistically significant difference).
 
 #### 4. Study Design: MechaCar vs Competition
 To compare the performance of the MechaCar prototype against the vehicles from the competition, we will perform a statistical analysis based on the following metrics: 
